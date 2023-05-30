@@ -1,4 +1,5 @@
 # Demo Project
+### `React + Vite`
 https://sirac-alakus-e-commerce-site.netlify.app/
 
 # Packages that need to be installed
